@@ -1,0 +1,48 @@
+         Python Programs
+---------------------------------------------
+
+ 1) Python program to print Hello world
+ 2) Python program to add two numbers
+ 3) Python program to find the square root
+ 4) Python program to calculate the area of a triangle
+ 5) Python program to Solve Quadratic Equation
+ 6) Python program to Swap two variables
+ 7) Python program to Generate a random number
+ 8) Python program to convert kilometers to miles
+ 9) Python program to convert celsius to fahrenheit
+ 10) Python program to check if a number is positive, negative or 0
+ 11) Python program to check if a number is odd or even
+ 12) Python program to check leap year
+ 13) Python program to find the largest among three numbers
+ 14) Python program to check prime number
+ 15) Python program to print all prime numbers in an interval
+ 16) Python program to find the factorial of a number
+ 17) Python program to display the multiplication table
+ 18) Python program to print the fibonacci sequence
+ 19) Python program to check Armstrong number
+ 20) Python program to find Armstrong number in an interval
+ 21) Python program to find the sum of natural numbers
+ 22) Python program to display powers of 2 using Anonymous function
+ 23) Python program to find numbers divisible by another number
+ 24) Python program to convert decimal to binary, octaland hexadecimal
+ 25) Python program to find ASCII value of character
+ 26) Python program to find HCF and GCD
+ 27) Python program to find LCM
+ 28) Python program to find the factors of a number
+ 29) Python program to make a simple calculator
+ 30) Python program to shuffle deck of cards.
+ 31) Python program to display calendar
+ 32) Python program to display fibonacci sequence using recursion
+ 33) Python program to find sum of natural numbers using recursion
+ 34) Python program to find factorial of number using recursion
+ 35) Python program to convert decimal to binary using recursion
+ 36) Python program to add two matrices
+ 37) Python program to transpose a Matrix
+ 38) Python program to multiply Two Matrices
+ 39) Python program to check whether a string is Palindrom or Not
+ 40)Python program to remove punctuations from a string
+ 41) Python program to sort words in Alphabetic order
+ 42) Python program to illustrate different set operations
+ 43) Python program to count the number of each vowel
+ 44) Python program to merge mails
+ 45) Python program to find the size(resolution) of a Image
